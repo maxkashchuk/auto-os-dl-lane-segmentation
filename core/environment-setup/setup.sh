@@ -1,0 +1,1 @@
+echo "posix setup"
